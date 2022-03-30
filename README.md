@@ -17,7 +17,11 @@ This is for simpelere training
 ## How To Contribute
 
 Simply fork this project and you can use it for your own project
+<<<<<<< HEAD
 Dont forget to request PULL request
+=======
+Dont forget to pull this project!!
+>>>>>>> simple-changes
 
 ## Copyright
 
