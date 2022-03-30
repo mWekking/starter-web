@@ -17,6 +17,7 @@ This is for simpelere training
 ## How To Contribute
 
 Simply fork this project and you can use it for your own project
+Dont forget to request PULL request
 
 ## Copyright
 
