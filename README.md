@@ -17,3 +17,7 @@ This is for simpelere training
 ## How To Contribute
 
 Simply fork this project and you can use it for your own project
+
+## Copyright
+
+All possible copyright claims works
