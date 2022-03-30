@@ -26,3 +26,7 @@ Dont forget to pull this project!!
 ## Copyright
 
 All possible copyright claims works
+
+## Thanks
+
+Special thanks to some people
