@@ -6,6 +6,7 @@ More changes will come shortly
 ## Introduction
 
 We are going to add alot of training here?
+Yeah bruw
 
 ## Purpose
 
