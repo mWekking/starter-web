@@ -23,6 +23,7 @@ Dont forget to pull this project!!
 ## Copyright
 
 All possible copyright claims works
+hahah joking
 
 ## Thanks
 
